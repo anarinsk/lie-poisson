@@ -8,7 +8,9 @@
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 also posted in [NCSOFT-DANBI](https://danbi-ncsoft.github.io/study/2019/07/15/poisson.html)
 
-  
+# tl;dr  
+
+- 푸아송 분포는 한마디로 이항 분포에서 $n \to \infty$지!
 
 # 푸아송 분포는 너는 누구냐?
 
@@ -78,5 +80,5 @@ $$
 
 이항 분포의 확률 혹은 확률 질량 함수의 극한값이 바로 푸아송 분포의 그것이다! 이거 참 재미있는 연결 고리가 아닌가! 사실 푸아송 분포의 정의를 그냥 들여다봐서는 그다지 직관적인 이해를 얻기는 쉽지 않다. 이항 분포에서 출발하는 것이 직관적인 이해에는 도움이 된다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzYzMDA4OV19
+eyJoaXN0b3J5IjpbLTE5OTU3OTM1MTYsMTI2MzYzMDA4OV19
 -->
