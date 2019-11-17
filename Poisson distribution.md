@@ -10,8 +10,8 @@ also posted in [NCSOFT-DANBI](https://danbi-ncsoft.github.io/study/2019/07/15/po
 
 # tl;dr  
 
-- 푸아송 분포는 이항 분포를 주어진 시간(기간) 안에 발생하는 평균 발생 횟수로 다시 모델링을 하
-- 직관적으로 이해하면 이항 분포에서 $n \to \infty$, $p \to 0$가 나타내는 분포다. 
+- 푸아송 분포는 이항 분포를 주어진 시간(기간) 안에 발생하는 평균 발생 횟수로 다시 모델링한 분포다.
+- 직관적으로 이해하면 이항 분포$\lambda = p / n$
 
 # 푸아송 분포는 너는 누구냐?
 
@@ -81,7 +81,7 @@ $$
 
 이항 분포의 확률 혹은 확률 질량 함수의 극한값이 바로 푸아송 분포의 그것이다! 이거 참 재미있는 연결 고리가 아닌가! 사실 푸아송 분포의 정의를 그냥 들여다봐서는 그다지 직관적인 이해를 얻기는 쉽지 않다. 이항 분포에서 출발하는 것이 직관적인 이해에는 도움이 된다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTE1NTEzOCwtMjA4NDg0Mjc4MiwxOT
-IwMjQ5MDAyLDE4MDYwMzg1MTgsODMxMjAzNDUyLDEyNjM2MzAw
-ODldfQ==
+eyJoaXN0b3J5IjpbLTE2MTgxNzY4ODUsLTIwODQ4NDI3ODIsMT
+kyMDI0OTAwMiwxODA2MDM4NTE4LDgzMTIwMzQ1MiwxMjYzNjMw
+MDg5XX0=
 -->
